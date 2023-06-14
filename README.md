@@ -1,2 +1,2 @@
-# Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
+# Use a Pre trained Image Classifier to Identify Dog Breeds
 Here is my attempt at completing the initial project of the Udacity AI Programming with Python Nanodegree. The project focuses on utilizing a pre-trained image classifier to recognize various dog breeds. Please be aware that plagiarism is strictly prohibited for this Nanodegree program. You can refer to this repository for studying purposes, but remember not to directly copy and paste the code if you are a student enrolled in the AI Programming with Python Nanodegree at Udacity.
