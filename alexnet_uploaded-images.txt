@@ -52,7 +52,7 @@ PetLabelDog: 1  ClassLabelDog: 1
 
  ** Statistics from calculates_results_stats() function:
 N Images:   4.0  N Dog Images:   2.0  N NotDog Images:   2.0 
-Pct Corr dog: 100.0 Pct Corr NOTdog: 100.0  Pct Corr Breed: 100.0
+Pct Corr dog: 100.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:   0.0
 
  ** Check Statistics - calculated from this function as a check:
 N Images:   4.0  N Dog Images:   2.0  N NotDog Images:   2.0 
@@ -66,49 +66,53 @@ N Not-Dog Images    :   2.0
  
 pct_match: 2.5e-09
 pct_correct_dogs: 100.0
-pct_correct_breed: 100.0
+pct_correct_breed: 4.9999999997500005e-09
 pct_correct_notdogs: 100.00000001000001
 pct_match: 2.5e-09
 pct_correct_dogs: 100.0
-pct_correct_breed: 100.0
+pct_correct_breed: 4.9999999997500005e-09
 pct_correct_notdogs: 100.00000001000001
 pct_match: 2.5e-09
 pct_correct_dogs: 100.0
-pct_correct_breed: 100.0
+pct_correct_breed: 4.9999999997500005e-09
 pct_correct_notdogs: 100.00000001000001
 pct_match: 2.5e-09
 pct_correct_dogs: 100.0
-pct_correct_breed: 100.0
+pct_correct_breed: 4.9999999997500005e-09
 pct_correct_notdogs: 100.00000001000001
 pct_match: 2.5e-09
 pct_correct_dogs: 100.0
-pct_correct_breed: 100.0
+pct_correct_breed: 4.9999999997500005e-09
 pct_correct_notdogs: 100.00000001000001
 pct_match: 2.5e-09
 pct_correct_dogs: 100.0
-pct_correct_breed: 100.0
+pct_correct_breed: 4.9999999997500005e-09
 pct_correct_notdogs: 100.00000001000001
 pct_match: 2.5e-09
 pct_correct_dogs: 100.0
-pct_correct_breed: 100.0
+pct_correct_breed: 4.9999999997500005e-09
 pct_correct_notdogs: 100.00000001000001
 pct_match: 2.5e-09
 pct_correct_dogs: 100.0
-pct_correct_breed: 100.0
+pct_correct_breed: 4.9999999997500005e-09
 pct_correct_notdogs: 100.00000001000001
 pct_match: 2.5e-09
 pct_correct_dogs: 100.0
-pct_correct_breed: 100.0
+pct_correct_breed: 4.9999999997500005e-09
 pct_correct_notdogs: 100.00000001000001
 pct_match: 2.5e-09
 pct_correct_dogs: 100.0
-pct_correct_breed: 100.0
+pct_correct_breed: 4.9999999997500005e-09
 pct_correct_notdogs: 100.00000001000001
 pct_match: 2.5e-09
 pct_correct_dogs: 100.0
-pct_correct_breed: 100.0
+pct_correct_breed: 4.9999999997500005e-09
 pct_correct_notdogs: 100.00000001000001
 
 INCORRECT Dog/NOT Dog Assignments:
+
+INCORRECT Dog Breed Assignment:
+Real:                        dog   Classifier:               golden retriever
+Real:                        dog   Classifier:               golden retriever
 
 ** Total Elapsed Runtime: 0:0:1

@@ -53,7 +53,8 @@ def get_pet_labels(image_dir):
     pet_labels = []
     for filename in filename_list:
         fname = ' '.join(x.lower() for x in filename.split('_')[:-1])
-        pet_labels.append(fname)
+        if fname[0]!='.':
+            pet_labels.append(fname)
     #coolprint(pet_labels)
     
     for idx in range(0, len(filename_list), 1):
